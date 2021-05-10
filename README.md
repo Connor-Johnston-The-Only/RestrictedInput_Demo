@@ -17,6 +17,7 @@ Example:
 			@Override
 			public void keyTyped(KeyEvent e) {
 				RestrictedInput.intInputOnly(false, e);
+				//[object_Name].intInputOnly(false, e);
 			}
 		});
     
