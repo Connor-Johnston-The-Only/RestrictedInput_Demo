@@ -11,7 +11,7 @@ I'll also take suggestions on what to add or take away.
 Example:
 
     RestrictedInput reInput = new RestrictedInput();
-    RestrictedInput [object_Name] = new RestrictedInput();
+    //RestrictedInput [object_Name] = new RestrictedInput();
     
 		textField.addKeyListener(new KeyAdapter() {
 			@Override
