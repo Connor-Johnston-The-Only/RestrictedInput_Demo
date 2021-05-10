@@ -16,10 +16,16 @@ Example:
 		textField.addKeyListener(new KeyAdapter() {
 			@Override
 			public void keyTyped(KeyEvent e) {
-				RestrictedInput.intInputOnly(false, e);
-				//[object_Name].intInputOnly(false, e);
+				reInput.intInputOnly(false, e);'
+				
+				//[object_Name].intInputOnly([Bool*], e);
+				//	or
+				//RestrictedInput.intInputOnly([Bool*], e);
 			}
 		});
     
 Would only allow user to input integers; no spaces
 Change the false to true... and th euser can input integers and spaces
+
+
+*Bool	- Boolean
