@@ -29,3 +29,4 @@ Change the false to true... and the user can input integers and spaces
 
 
 *Bool	- Boolean *
+^ Everyone knows that but you know "short, memorable, and easy to read at anytime by anyone" or whatever ^
