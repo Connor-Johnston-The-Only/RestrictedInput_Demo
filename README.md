@@ -28,4 +28,4 @@ Would only allow user to input integers; no spaces
 Change the false to true... and th euser can input integers and spaces
 
 
-*Bool	- Boolean
+*Bool	- Boolean*
