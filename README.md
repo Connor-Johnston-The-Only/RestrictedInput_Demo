@@ -1,5 +1,6 @@
 # RestrictedInput_Demo
 A class demo to restrict user input
+
 Recently learned how to make classes and I was making a GUI and I wanted to limit user input to numbers and kinda got carried away.
 
 Adding more later
